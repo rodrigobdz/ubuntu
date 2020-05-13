@@ -2,7 +2,7 @@
 
 > Ubuntu 16.04 Docker image with non-root ubuntu user pre-installed
 
-Available on [Docker Hub](https://hub.docker.com/r/rodrigobdz/non_root_ubuntu_16.04)
+Available on [Docker Hub](https://hub.docker.com/r/rodrigobdz/ubuntu)
 
 ## Usage
 
