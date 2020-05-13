@@ -1,13 +1,16 @@
-# docker-ubuntu-16.04
+# non_root_ubuntu_16.04
 
 > Ubuntu 16.04 Docker image with non-root ubuntu user pre-installed
+
+Available on [Docker Hub](https://hub.docker.com/r/rodrigobdz/non_root_ubuntu_16.04)
 
 ## Usage
 
 - Test in a temporary container
 
   ```sh
-  docker build --tag non-root-ubuntu:16.04 .
+  # Build locally (optional)
+  # docker build --tag non-root-ubuntu:16.04 .
   docker run --rm --interactive --tty non-root-ubuntu:16.04 bash --login
   ```
 
